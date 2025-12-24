@@ -136,11 +136,11 @@ industrial controllers and single-board computers while maintaining predictive a
 ## Author
 
 **Taaqib Masood**  
-B.Tech Computer Science  
+B.Tech Computer Science and Engineering  
 Specialization: Data Analytics 
 
 **Co-Author:** Farzad Ashraf 
-B.Tech Computer Science 
+B.Tech Computer Science and Engineering 
 
 
 Detailed quantitative results and model-wise performance comparisons are presented in the associated research paper.
