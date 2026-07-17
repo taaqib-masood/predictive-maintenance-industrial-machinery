@@ -142,13 +142,11 @@ Specialization: Data Analytics
 
 Detailed quantitative results and model-wise performance comparisons are presented in the associated research paper.
 
-
-
 <br><br>
 
 ---
 
-# 👨‍💻 Developer Profile
+## 👨‍💻 About the Author
 
 <div align="center">
 
@@ -163,7 +161,7 @@ Detailed quantitative results and model-wise performance comparisons are present
 
 <p align="center">
   <a href="https://taaqib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/taaqibmasood"><img src="https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/taaqib-masood/"><img src="https://img.shields.io/badge/LinkedIn-9C27B0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:taaqibmasood@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/taaqib-masood"><img src="https://img.shields.io/badge/GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -179,7 +177,7 @@ Detailed quantitative results and model-wise performance comparisons are present
 ---
 
 <div align="center">
-  <h2> 👨‍💻 About Me </h2>
+  <h3> 👨‍💻 About Me </h3>
 </div>
 
 I am a Software Engineer with a profound focus on AI/ML systems and Full Stack Development. I specialize in building enterprise-grade applications, robust distributed systems, and implementing scalable machine learning solutions in production environments. My engineering philosophy revolves around a strong product mindset, ensuring that the technology not only meets rigorous technical standards but also delivers exceptional user experiences. 
@@ -189,7 +187,7 @@ I am a Software Engineer with a profound focus on AI/ML systems and Full Stack D
 ---
 
 <div align="center">
-  <h2> 🛠️ Tech Stack </h2>
+  <h3> 🛠️ Tech Stack </h3>
 </div>
 
 ### Languages
@@ -223,7 +221,7 @@ I am a Software Engineer with a profound focus on AI/ML systems and Full Stack D
 ---
 
 <div align="center">
-  <h2> 🧠 AI / ML Expertise </h2>
+  <h3> 🧠 AI / ML Expertise </h3>
 </div>
 
 | Domain | Proficiency | Details |
@@ -236,7 +234,7 @@ I am a Software Engineer with a profound focus on AI/ML systems and Full Stack D
 ---
 
 <div align="center">
-  <h2> 🚀 Featured Projects </h2>
+  <h3> 🚀 Featured Projects </h3>
 </div>
 
 <details>
@@ -318,72 +316,7 @@ Engineered to convey trust and authority through premium design, optimized for S
 ---
 
 <div align="center">
-  <h2> 💼 Experience </h2>
-</div>
-
-**Software Engineer** | *Tech Innovators Inc.*  
-*2022 - Present*  
-Leading development of highly scalable microservices and AI-integrated products.
-- Designed and implemented RAG-based systems improving search accuracy by 40%.
-- Architected cloud-native APIs handling over 1M+ requests daily.
-- Mentored junior engineers and established robust CI/CD pipelines.
-`Python` `Go` `Kubernetes` `AWS` `LLMs`
-
-**Full Stack Developer** | *Digital Solutions Agency*  
-*2020 - 2022*  
-Developed and maintained comprehensive web applications for diverse enterprise clients.
-- Spearheaded the frontend migration to React, reducing technical debt.
-- Optimized backend database queries, cutting response times by 50%.
-- Integrated complex third-party payment and identity APIs.
-`React` `Node.js` `PostgreSQL` `Docker`
-
----
-
-<div align="center">
-  <h2> 🏆 Achievements </h2>
-</div>
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Top 1% Contributor** | Recognized for high-impact open-source contributions. |
-| **Hackathon Winner** | 1st place at National AI Innovation Hackathon. |
-| **Performance Award** | Awarded 'Engineer of the Year' at Tech Innovators Inc. |
-
-</div>
-
----
-
-<div align="center">
-  <h2> 📜 Certifications </h2>
-</div>
-
-<div align="center">
-
-**AWS**
-<br>
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-7C3AED?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning-9C27B0?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-**Oracle**
-<br>
-<img src="https://img.shields.io/badge/Oracle-Certified%20Professional%20Java%20SE-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-
-**NPTEL**
-<br>
-<img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Specialization-9C27B0?style=for-the-badge" />
-
-**Cisco**
-<br>
-<img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20and%20Switching-7C3AED?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-  <h2> 💻 Coding Profiles </h2>
+  <h3> 💻 Coding Profiles </h3>
 </div>
 
 <p align="center">
@@ -396,7 +329,7 @@ Developed and maintained comprehensive web applications for diverse enterprise c
 ---
 
 <div align="center">
-  <h2> 📊 GitHub Analytics </h2>
+  <h3> 📊 GitHub Analytics </h3>
 </div>
 
 <p align="center">
@@ -412,7 +345,7 @@ Developed and maintained comprehensive web applications for diverse enterprise c
 ---
 
 <div align="center">
-  <h2> 🏆 GitHub Trophies </h2>
+  <h3> 🏆 GitHub Trophies </h3>
 </div>
 
 <p align="center">
@@ -422,7 +355,7 @@ Developed and maintained comprehensive web applications for diverse enterprise c
 ---
 
 <div align="center">
-  <h2> 📈 Contribution Activity </h2>
+  <h3> 📈 Contribution Activity </h3>
 </div>
 
 <p align="center">
@@ -432,7 +365,7 @@ Developed and maintained comprehensive web applications for diverse enterprise c
 ---
 
 <div align="center">
-  <h2> 🐍 Contribution Snake </h2>
+  <h3> 🐍 Contribution Snake </h3>
 </div>
 
 <p align="center">
@@ -442,7 +375,7 @@ Developed and maintained comprehensive web applications for diverse enterprise c
 ---
 
 <div align="center">
-  <h2> 🎯 Current Focus </h2>
+  <h3> 🎯 Current Focus </h3>
 </div>
 
 ```yaml
@@ -464,12 +397,12 @@ Current_Focus:
 ---
 
 <div align="center">
-  <h2> 🌐 Connect </h2>
+  <h3> 🌐 Connect </h3>
 </div>
 
 <p align="center">
   <a href="mailto:taaqibmasood@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/taaqibmasood"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/taaqib-masood/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/taaqib-masood"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://taaqib-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
